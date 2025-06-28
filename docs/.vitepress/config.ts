@@ -8,7 +8,7 @@ const teekConfig = defineTeekConfig({
   blogger: {
     avatar: "https://testingcf.jsdelivr.net/gh/Kele-Bingtang/static/user/avatar1.png",
     shape: "circle-rotate",
-    name: "iTrade",
+    name: "iTrades",
     slogan: "专注于量化交易与策略研究，探索自动化交易的无限可能。",
     circleBgImg: "/blog/bg4.webp",
     color: "#ffffff",
@@ -54,7 +54,7 @@ const teekConfig = defineTeekConfig({
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   extends: teekConfig,
-  title: "iTrade",
+  title: "iTrades",
   description: description,
   cleanUrls: false,
   lastUpdated: true,
