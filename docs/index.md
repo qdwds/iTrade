@@ -5,7 +5,7 @@ tk:
   teekHome: false
 
 hero:
-  name: iTrades Docs
+  name: iTrade Docs
   text: Freqtrade 策略库 & 技术指标手册
   tagline: 📊 一个面向量化交易者的高效文档主题，聚焦策略构建、指标解析与实战分享
   actions:
