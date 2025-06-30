@@ -135,8 +135,8 @@ export default defineConfig({
     },
     nav: [
       // { text: "首页", link: "/" },
-      { text: "主题配置", link: "/freqtrade/11", activeMatch: "/01.freqtrade/", },
-      { text: "指标库", link: "/indicator/11", activeMatch: "/indicator/" },
+      { text: "Freqtrade", link: "/freqtrade/1.freqtrade", activeMatch: "/freqtrade/", },
+      { text: "指标库", link: "/indicator/rsi", activeMatch: "/indicator/" },
 
     ],
 
